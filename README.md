@@ -1,4 +1,4 @@
-# Project Title
+# Froglet
 
 Simple api that parse some froggy things
 
